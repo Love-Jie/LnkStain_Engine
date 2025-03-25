@@ -1,0 +1,301 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Platform",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Platform-Debug-c4367f00623003809246.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Platform",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Platform/External/glfw",
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Platform.External.glfw-Debug-89b6ccc89723611165b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "Platform/External/glfw",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Platform/External/glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Platform.External.glfw.src-Debug-dcc3396cf04fa8e91a66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "Platform/External/glfw/src",
+					"targetIndexes" : 
+					[
+						3,
+						7
+					]
+				},
+				{
+					"build" : "Platform/External/glfw/docs",
+					"jsonFile" : "directory-Platform.External.glfw.docs-Debug-78a46c777934b13f3c79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "Platform/External/glfw/docs"
+				},
+				{
+					"build" : "Core",
+					"jsonFile" : "directory-Core-Debug-b3854b2db255c35a81c1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Core",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Editor",
+					"jsonFile" : "directory-Editor-Debug-7a308ff03f205fcb7b81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Editor"
+				},
+				{
+					"build" : "Sample",
+					"childIndexes" : 
+					[
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-Sample-Debug-caed6328e2443eda527e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Sample"
+				},
+				{
+					"build" : "Sample/SandBox",
+					"jsonFile" : "directory-Sample.SandBox-Debug-5ce3c5ffe40bd4b9e304.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "Sample/SandBox",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Sample/01_FirstCube",
+					"jsonFile" : "directory-Sample.01_FirstCube-Debug-9c29e22f0933808be219.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "Sample/01_FirstCube",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Sample/02_Texture",
+					"jsonFile" : "directory-Sample.02_Texture-Debug-3bd11bfee7795a3915d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "Sample/02_Texture",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "LnkStain_Engine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 9,
+					"id" : "FirstCube::@0cec8f6066f937f72ea9",
+					"jsonFile" : "target-FirstCube-Debug-5ead230760ee367547ef.json",
+					"name" : "FirstCube",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "SandBox::@07d2af709ebe7cebe019",
+					"jsonFile" : "target-SandBox-Debug-48b2abca9b76fe8e9731.json",
+					"name" : "SandBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Texture::@2ff6f79b73e8ab779fa6",
+					"jsonFile" : "target-Texture-Debug-f1a449844bba67a61e23.json",
+					"name" : "Texture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glfw::@ad7389fef29b2006dd00",
+					"jsonFile" : "target-glfw-Debug-11d4328aba6fbeabcdf7.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "lnkstain_core::@94795ff35dabbbd3a8ca",
+					"jsonFile" : "target-lnkstain_core-Debug-64503fd16358249d174c.json",
+					"name" : "lnkstain_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lnkstain_platform::@be182d4d8601e04fa5cc",
+					"jsonFile" : "target-lnkstain_platform-Debug-084ce036f400369fcb50.json",
+					"name" : "lnkstain_platform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "uninstall::@a52933368cccce702ce8",
+					"jsonFile" : "target-uninstall-Debug-b0fe24f27ca35d27ed30.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "update_mappings::@ad7389fef29b2006dd00",
+					"jsonFile" : "target-update_mappings-Debug-744663a74c2149db31de.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CLion/LnkStain_Engine/cmake-build-debug",
+		"source" : "D:/CLion/LnkStain_Engine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

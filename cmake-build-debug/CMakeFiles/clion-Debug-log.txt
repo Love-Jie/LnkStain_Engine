@@ -1,0 +1,19 @@
+"D:\CLion\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_C_COMPILER=D:/mingw32/mingw32/bin/gcc.exe -G Ninja -S D:\CLion\LnkStain_Engine -B D:\CLion\LnkStain_Engine\cmake-build-debug
+Resource directory: D:/CLion/LnkStain_Engine/Resource/
+Platform: Windows
+Find vulkan success: D:/VulkanSDK/Include
+-- Including Win32 support
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Documentation generation requires Doxygen 1.9.8 or later
+----> Find vulkan success: D:/VulkanSDK/Include
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/00_hello_triangle.vert -o D:/CLion/LnkStain_Engine/Resource/Shader/00_hello_triangle.vert.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/00_hello_triangle.frag -o D:/CLion/LnkStain_Engine/Resource/Shader/00_hello_triangle.frag.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/01_hello_buffer.vert -o D:/CLion/LnkStain_Engine/Resource/Shader/01_hello_buffer.vert.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/01_hello_buffer.frag -o D:/CLion/LnkStain_Engine/Resource/Shader/01_hello_buffer.frag.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/02_descriptor_set.vert -o D:/CLion/LnkStain_Engine/Resource/Shader/02_descriptor_set.vert.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/02_descriptor_set.frag -o D:/CLion/LnkStain_Engine/Resource/Shader/02_descriptor_set.frag.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/03_unlit_material.vert -o D:/CLion/LnkStain_Engine/Resource/Shader/03_unlit_material.vert.spv
+GLSL Command: D:/VulkanSDK/Bin/glslangValidator.exe -V --target-env spirv1.0 D:/CLion/LnkStain_Engine/Resource/Shader/03_unlit_material.frag -o D:/CLion/LnkStain_Engine/Resource/Shader/03_unlit_material.frag.spv
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/CLion/LnkStain_Engine/cmake-build-debug

@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/CLion/LnkStain_Engine/cmake-build-debug",
+	"dir-cur-src" : "D:/CLion/LnkStain_Engine",
+	"dir-top-bld" : "D:/CLion/LnkStain_Engine/cmake-build-debug",
+	"dir-top-src" : "D:/CLion/LnkStain_Engine",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/CLion/LnkStain_Engine/cmake-build-debug/CMakeFiles/LnkStain_Engine.dir"
+}

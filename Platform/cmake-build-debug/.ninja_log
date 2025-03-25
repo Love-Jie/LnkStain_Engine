@@ -1,0 +1,23 @@
+# ninja log v6
+3	14	7612197423089287	clean	1dfa6efa1222186c
+1072	1775	7612552370368960	External/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	32e6afdb05cf5acd
+4	994	7612552359689649	External/glfw/src/CMakeFiles/glfw.dir/context.c.obj	bb713ae3e2be6c78
+50	1032	7612552360153441	External/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	7486222e581fe650
+15	1014	7612552359800401	External/glfw/src/CMakeFiles/glfw.dir/init.c.obj	d81a549a1d9da437
+62	1052	7612552360265403	External/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	e4fd20c63e811d2a
+1092	1849	7612552370570471	External/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	2c794ab8ae6f1fa7
+172	1108	7612552361378472	External/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	9e88c6beeb55cbdc
+38	1071	7612552360032106	External/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	bc588c8820e174d4
+104	1091	7612552360694951	External/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	62e00827e53d5890
+998	1680	7612552369631152	External/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	d25de959054b042d
+143	1124	7612552361094512	External/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	4bd60fb2fcebf226
+124	1140	7612552360888679	External/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	8267431197a234ba
+190	1155	7612552361553871	External/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	bf7d4baa9e534dc2
+25	1173	7612552359911132	External/glfw/src/CMakeFiles/glfw.dir/input.c.obj	f921e39f01de0d16
+86	1175	7612552360521208	External/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	319896d66d318608
+74	1176	7612552360386843	External/glfw/src/CMakeFiles/glfw.dir/window.c.obj	52cb38f67f6bb206
+157	1179	7612552361225653	External/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	c803b082c6df0e57
+1015	1689	7612552369801189	External/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	d9769da79827d39e
+1033	1733	7612552369981231	External/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	1a5533a1482179f6
+1108	1775	7612552370730505	External/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	cda08194c5d343de
+1053	1782	7612552370177604	External/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	4713a36398b243d7
